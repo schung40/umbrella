@@ -1,0 +1,1 @@
+ENV.fetch("WEATHER_KEY")
